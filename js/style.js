@@ -23,14 +23,12 @@ right_btn.addEventListener('click', function () {
 })
 
 
-class Posters {
-    constructor(picture, url) {
-        this.picture = picture;
-        this.url = url;
-    }
-}
-
-
+// class Posters {
+//     constructor(picture, url) {
+//         this.picture = picture;
+//         this.url = url;
+//     }
+// }
 
 // let poster = [
 //     new Posters("./assest/img/spider_man__no_way_home.png",
@@ -100,17 +98,6 @@ function demo() {
 
 fetch(json_url).then(Response => Response.json())
     .then((data) => {
-        // data.forEach((properties, i) => {
-        //     // let { name, imdb, date, picture, genre, url } = properties;
-        //     // let card =document.createElement('a');
-
-        // });
-
-        // document.getElementById('title').innerText = data[0].name;
-        // document.getElementById('category').innerText = data[0].genre;
-        // document.getElementById('date').innerText = data[0].date;
-        // document.getElementById('rate').innerHTML = `<span>IMDB </span><i class="bi bi-star-fill"></i> ${date[0].imdb}`;
-
         data.forEach(element => {
             let { name, imdb, date, picture, genre, url, description, video } = element;
             let card = document.createElement('a');

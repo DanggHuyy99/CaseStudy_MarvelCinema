@@ -18,8 +18,6 @@
         "url" : "antman.html",
         "description" : "Forced out of his own company by former protégé Darren Cross, Dr. Hank Pym (Michael Douglas) recruits the talents of Scott Lang (Paul Rudd), a master thief just released from prison. Lang becomes Ant-Man, trained by Pym and armed with a suit that allows him to shrink in size, possess superhuman strength and control an army of ants. ",
         "video" : "assest/video/antman.mp4"
-
-        
     },
     {
         "name" : "Guardian Of The Galaxy",
@@ -30,7 +28,6 @@
         "url" : "guardianofthegalaxy.html",
         "description" : "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
         "video" : "assest/video/guardianofthegalaxy.mp4"
-        
     },
     {
         "name" : "Iron Man",
@@ -41,7 +38,6 @@
         "url" : "ironman.html",
         "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
         "video" : "assest/video/ironman.mp4"
-        
     },
     {
         "name" : "Avengers: Infinity War",
