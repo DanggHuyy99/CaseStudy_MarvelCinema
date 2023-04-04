@@ -1,0 +1,166 @@
+[
+    {
+        "name" : "Spider Man: No Way Home",
+        "imdb" : 9.2,
+        "date" : "2022",
+        "picture" : "./assest/img/spider_man__no_way_home.png",
+        "genre" : "Action",
+        "url" : "spiderman.html",
+        "description" : "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+        "video" : "assest/video/spiderman.mp4"
+    },
+    {
+        "name" : "Ant-Man",
+        "imdb" : 9.1,
+        "date" : "2023",
+        "picture" : "./assest/img/ant_man.png",
+        "genre" : "Action Adventure",
+        "url" : "antman.html",
+        "description" : "Forced out of his own company by former protégé Darren Cross, Dr. Hank Pym (Michael Douglas) recruits the talents of Scott Lang (Paul Rudd), a master thief just released from prison. Lang becomes Ant-Man, trained by Pym and armed with a suit that allows him to shrink in size, possess superhuman strength and control an army of ants. ",
+        "video" : "assest/video/antman.mp4"
+
+        
+    },
+    {
+        "name" : "Guardian Of The Galaxy",
+        "imdb" : 8.7,
+        "date" : "2021",
+        "picture" : "./assest/img/guardians_of_the_galaxy.png",
+        "genre" : "Adventure",
+        "url" : "guardianofthegalaxy.html",
+        "description" : "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+        "video" : "assest/video/guardianofthegalaxy.mp4"
+        
+    },
+    {
+        "name" : "Iron Man",
+        "imdb" : 9.3,
+        "date" : "2021",
+        "picture" : "./assest/img/ironman.png",
+        "genre" : "Adventure",
+        "url" : "ironman.html",
+        "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "video" : "assest/video/ironman.mp4"
+        
+    },
+    {
+        "name" : "Avengers: Infinity War",
+        "imdb" : 9.7,
+        "date" : "2020",
+        "picture" : "./assest/img/infinitiwar.png",
+        "genre" : "Adventure",
+        "url" : "infinitiwar.html",
+        "description" : "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "video" : "assest/video/infinitiwar.mp4"
+    },
+    {
+        "name" : "Avengers: End Game",
+        "imdb" : 10.0,
+        "date" : "2022",
+        "picture" : "./assest/img/endgame.png",
+        "genre" : "Action Adventure",
+        "url" : "endgame.html",
+        "description" : "After the devastating events of Avengers: Cuộc Chiến Vô Cực (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "video" : "assest/video/endgame.mp4"
+    },
+    {
+        "name" : "Black Panther",
+        "imdb" : 9.1,
+        "date" : "2021",
+        "picture" : "./assest/img/blackpanther.png",
+        "genre" : "Action Adventure",
+        "url" : "blackpanther.html",
+        "description" : "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+        "video" : "assest/video/blackpanther.mp4"
+    },
+    {
+        "name" : "Hulk",
+        "imdb" : 8.4,
+        "date" : "2018",
+        "picture" : "./assest/img/hulk.png",
+        "genre" : "Action",
+        "url" : "hulk.html",
+        "description" : "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
+        "video" : "assest/video/hulk.mp4"
+    },
+    {
+        "name" : "Captain Marvel",
+        "imdb" : 8.8,
+        "date" : "2021",
+        "picture" : "./assest/img/captainmarvel.png",
+        "genre" : "Action Adventure",
+        "url" : "captainmarvel.html",
+        "description" : "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "video" : "assest/video/captainmarvel.mp4"
+    },
+    {
+        "name" : "Thor: Love And Thunder",
+        "imdb" : 6.5,
+        "date" : "2022",
+        "picture" : "./assest/img/thor.png",
+        "genre" : "Action Adventure",
+        "url" : "thor.html",
+        "description" : "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+        "video" : "assest/video/thor.mp4"
+    },
+    {
+        "name" : "Black Widow",
+        "imdb" : 7.5,
+        "date" : "2023",
+        "picture" : "./assest/img/blackwidow.png",
+        "genre" : "Adventure",
+        "url" : "blackwidow.html",
+        "description" : "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+        "video" : "assest/video/blackwidow.mp4"
+    },
+    {
+        "name" : "Captain American: Civil War",
+        "imdb" : 9.3,
+        "date" : "2019",
+        "picture" : "./assest/img/civilwar.png",
+        "genre" : "Action Adventure",
+        "url" : "civilwar.html",
+        "description" : "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+        "video": "assest/video/civilwar.mp4"
+    },
+    {
+        "name" : "DC vs Marvel",
+        "imdb" : 10.0,
+        "date" : "2023",
+        "picture" : "./assest/img/vs.png",
+        "genre" : "Action Adventure",
+        "url" : "vs.html",
+        "description" : "In the beginning, the two publishers showed distinct differences in their storytelling. On one hand, DC was known for telling colorful stories of gods who performed incredible feats to protect humanity and the greater good.",
+        "video" : "assest/video/dcvsmarvel.mp4"
+    },
+    {
+        "name" : "Doctor Strange",
+        "imdb" : 9.6,
+        "date" : "2021",
+        "picture" : "./assest/img/doctor.png",
+        "genre" : "Action Adventure",
+        "url" : "doctor.html",
+        "description" : "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+        "video" : "assest/video/doctorstrange.mp4"
+    },
+    {
+        "name" : "Spider Man: Into the Spider-Verse",
+        "imdb" : 9.6,
+        "date" : "2022",
+        "picture" : "./assest/img/spiderver.png",
+        "genre" : "Action Adventure",
+        "url" : "spiderver.html",
+        "description" : "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+        "video" : "assest/video/spider.mp4"
+    },
+    {
+        "name" : "Scarlet Witch",
+        "imdb" : 8.5,
+        "date" : "2022",
+        "picture" : "./assest/img/scarletwitch.png",
+        "genre" : "Action Adventure",
+        "url" : "scarletwitch.html",
+        "description" : "Wanda Maximoff is a native of Sokovia who grew up with her fraternal twin brother, Pietro. Born with the latent mythical ability to harness Chaos Magic, she developed a hatred against Tony Stark and rallied anti-American protests after the Novi Grad Bombings killed her parents.",
+        "video" : "assest/video/scarletwitch.mp4"
+    }
+]

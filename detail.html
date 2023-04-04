@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assest/style.css">
+    <link rel="shortcut icon" href="assest/img/logo.png">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <title>Ant-Man</title>
+</head>
+
+<body>
+    <header>
+        <video src="assest/video/scarletwitch.mp4" autoplay muted id="video" class="video"></video>
+        <nav class="container">
+            <div class="logo_ul">
+                <img src="assest/img/Logo_Marvel_Comics.png" alt="">
+                <ul>
+                    <li>
+                        <a href="/" id="home">Home</a>
+                    </li>
+                    <li>
+                        <a href="#" id="hot">Hot</a>
+                    </li>
+                    <li>
+                        <a href="">Login</a>
+                    </li>
+                    <li>
+                        <a href="">Comics</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="search">
+                <input type="text" id="search_input" placeholder="Search">
+                <img src="assest/img/logospiderman.png" alt="">
+                <div class="empty_box_search">
+                    <!-- <a href="" class="card">
+                        <img src="assest/img/spider_man__no_way_home.png" alt="">
+                        <div class="cont">
+                            <h3>Spider Man: No Way Home: Directed by Jon Watts. With Tom Holland, Zendaya, Benedict
+                                Cumberbatch, Jacob Batalon. With Spider-Man's identity now revealed, Peter asks Doctor
+                            </h3>
+                            <p>Action, 2022 , <span>IMDB </span><i class="bi bi-star-fill"></i> 9.2</p>
+                        </div>
+                    </a> -->
+                </div>
+            </div>
+        </nav>
+        <div class="content">
+            <div id="cards">
+                <h1 id="title"></h1>
+                <p id="description"></p>
+                <div class="detail">
+                    <h6>Marvel Studio</h6>
+                    <h5 id="category">Action</h5>
+                    <h4 id="date"></h4>
+                    <h3 id="rate"><span>IMDB </span><i class="bi bi-star-fill"></i> 9.2</h3>
+                </div>
+            </div>
+            <div class="watch">
+                <a href="#" id="play" onclick="play()">Play <i class="bi bi-play-circle"></i></a>
+                <a href="#" id="download">Download <i class="bi bi-cloud-arrow-down-fill"></i></a>
+            </div>
+        </div>
+        <section id="sec">
+            <h3 id="h3">Featured Movies</h3>
+            <i class="bi bi-arrow-left-circle-fill" id="leftScroll"></i>
+            <i class="bi bi-arrow-right-circle-fill" id="rightScroll"></i>
+            <div class="featureds">
+                <!-- <a href="" class="featured">
+                    <img src="assest/img/spider_man__no_way_home.png" class="film" alt="">
+                </a> -->
+            </div>
+        </section>
+    </header>
+    <script src="js/style.js"></script>
+    <script src="js/detail.js"></script>
+</body>
+
+</html>
